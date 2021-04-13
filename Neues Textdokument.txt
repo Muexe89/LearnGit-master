@@ -1,2 +1,4 @@
 Hello Welt!
 Dies ist meine wirklich erste Datei.
+New Line
+Zeile 4
